@@ -8,3 +8,6 @@ Chương trình Python này đọc, xác thực và đánh giá câu trả lời
 * Thông tin thống kê về điểm số bao gồm: trung bình, cao nhất, thấp nhất, phạm vi và trung vị, sẽ được hiển thị.
 * Một tệp mới (class1_grades.txt) sẽ được tạo, chứa cột StudentID và Scores.
 
+# Dependencies
+* Pandas
+* Numpy
